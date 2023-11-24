@@ -48,6 +48,10 @@
 	}>();
 
 	const handleSubmit = () => {
+		var url =
+			window.location != window.parent.location ? document.referrer : document.location.href;
+		console.log(url);
+		if (url != "https://huggingface.co/") return;
 		if (loading) return;
 		dispatch("message", message);
 		message = "";
