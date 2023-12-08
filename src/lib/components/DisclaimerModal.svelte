@@ -25,7 +25,7 @@
 		</p>
 
 		<p class="text-sm text-gray-500">
-			IOS Users: Please disable "Prevent Cross-Site Tracking" in (Settings - Safari) for current page works properly 
+			IOS Users: Please disable "Prevent Cross-Site Tracking" in (Settings - Safari) for current page working properly.
 			Disclaimer: AI is an area of active research with known problems such as biased generation and
 			misinformation. Do not use this application for high-stakes decisions or advice.
 		</p>
